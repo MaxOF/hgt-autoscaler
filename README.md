@@ -101,7 +101,7 @@ synthetic/
  └─ generate_metrics.py
 ```
 
-##Installation
+## Installation
 
 ```bash
 git clone https://github.com/MaxOF/repo.git

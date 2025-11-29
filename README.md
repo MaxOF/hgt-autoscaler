@@ -28,10 +28,6 @@ Heterogeneous Graph Transformer for Kubernetes Autoscaling
 ## 🏗 Архитектура
 
 
-::contentReference[oaicite:0]{index=0}
-
-
-*(Вставьте сюда свой файл: `docs/system-architecture.pdf`)*
 
 Архитектура состоит из шести ключевых подсистем:
 

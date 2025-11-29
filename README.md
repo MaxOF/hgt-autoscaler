@@ -102,7 +102,8 @@ synthetic/
 
 
 ##Installation
-```
+
+```bash
 git clone https://github.com/MaxOF/repo.git
 cd hgt-autoscaler
 
@@ -113,6 +114,7 @@ pip install -r requirements.txt
 ```
 
 ## Running the Autoscaler
-```
+
+```bash
 uvicorn app.main:app --reload
 ```

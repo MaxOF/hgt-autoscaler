@@ -1,4 +1,3 @@
-# app/service/hgt_service.py
 import logging
 import torch
 import numpy as np
